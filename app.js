@@ -1,8 +1,8 @@
 const AV = require('./utils/av-live-query-weapp-min');
 
 AV.init({
-  appId: '3DPOzSlYdVdkBDKrlPDgjx19-gzGzoHsz',
-  appKey: 'xxxxxxxxxx',
+  appId: 'pAvGtrqE6drmINdy9lfQ0Scl-gzGzoHsz',
+  appKey: 'yoQo46a4S5wNXbXnBGWxBGV',
 });
 
 App({
